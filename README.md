@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Senem! 👋
 
-<!--
-**senemoztrk/senemoztrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Management Information Systems Student  
+💻 Interested in Software Development, Data Analysis & Game Development  
+🥽 Exploring VR Development with Unity
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a Management Information Systems student who enjoys combining technology, software development and creative design.
+
+I'm currently improving myself in web development, Python, SQL, data analysis and Unity-based game development. I'm also working on VR projects and exploring interactive experiences.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming & Development
+- Python
+- SQL
+- HTML / CSS
+
+### Data & Business
+- Data Analysis
+- Power BI
+- Microsoft Excel
+
+### Design & 3D
+- Unity
+- Photoshop
+- AutoCAD
+
+### Currently Learning
+- VR Development
+- Unity XR
+- Game Development
+- Interactive 3D Experiences
+
+---
+
+## 📌 Featured Projects
+
+### 🚨 AYBIS
+A web-based disaster management information system featuring earthquake data, maps, dashboards and data visualization.
+
+### 🥽 VR Office Game
+A Unity-based VR game focused on organizing an office environment through interactive tasks and progressively challenging levels.
+
+### 🦖 Dinosaur Game
+A simple 2D Unity game developed as one of my early game development projects.
+
+---
+
+## 🎯 Goals
+
+- Improve my software development skills
+- Build more Unity & VR projects
+- Develop data-driven applications
+- Create useful and interactive digital experiences
+
+---
+
+## 📫 Contact
+
+Feel free to explore my repositories and connect with me!
